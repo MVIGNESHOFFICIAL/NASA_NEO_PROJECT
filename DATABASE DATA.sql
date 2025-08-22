@@ -1,0 +1,1 @@
+SELECT * FROM guvi_neo_project.asteroids;
